@@ -7,6 +7,7 @@
     "releasenote": "Work In Progress",
     "contributors": ["Vortex"],
     "dependencies": {
-      "hxcpp": ""
+      "hxcpp": "",
+      "haxeui-core": ""
     }
   }

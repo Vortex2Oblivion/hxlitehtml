@@ -1,4 +1,4 @@
-package hxlitehtml.html;
+package hxlitehtml.container.html;
 
 import hxlitehtml.container.DocumentContainer;
 
