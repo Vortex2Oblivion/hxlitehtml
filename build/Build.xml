@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<files id="litehtml">
+	    <file name="${haxelib:hxpy}/project/include/litehtml.h" />
+	</files>
+
+
+	<files id="haxe">
+		<compilervalue name="-I" value="${haxelib:hxlitehtml}/project/" />
+	</files>
+</xml>
